@@ -68,7 +68,7 @@ Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Teleg
 <hr>
 
 ## Файл КП для автотестов:
-* /data/ФНС_отчетность/КП автотест ЗАГС-РЖ.xlsx
+* /data/Реестр_ЗАГС_о_РОЖДЕНИИ_ЕГР ЗАГС/КП автотест ЗАГС-РЖ.xlsx
 
 <hr>
 
