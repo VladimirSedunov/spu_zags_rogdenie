@@ -92,6 +92,8 @@ Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Teleg
 Для каждого SQL-запроса через указание его уникального кода задаются цвета, в которые раскрашиваются ячейки Эталонов.
 ![](/design/images/Раскраска.png)
 
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
 **В процессе тестирования** на этапе сверки последовательно выполняются SQL-запросы из таблицы "Эталон_Скрипты". Для каждой полученной таким образом выборки
 выполняется сверка значений с Эталонными таблицами в соответствии с цветом ячеек и формируется файл Отчёта, который представляет собой набор Листов, каждый из которых
 содержит набор эталонных таблиц и следующих за каждой из них таблицы с фактической выборкой:
