@@ -106,7 +106,7 @@ Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Teleg
 
 Если расхождений нет, этот Лист выглядит так:
 
-![](/design/images/Лог_2.PNG)
+![](/design/images/Лог_2.png)
 <hr>
 
 ## Формирование Эталонов
