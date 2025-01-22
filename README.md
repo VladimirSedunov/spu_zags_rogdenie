@@ -142,7 +142,7 @@ pytest ${SELECT_TESTS} --browser=${browser} --browser_version=${browser_version}
 
 ## Настроено автоматическое оповещение о результатах сборки Jenkins в Telegram-бот
 
-![](/design/images/telegram_bot.PNG)
+![](/design/images/telegram_bot.PN)
 
 <hr>
 
