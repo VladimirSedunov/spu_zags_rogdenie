@@ -147,7 +147,7 @@ pytest ${SELECT_TESTS} --browser=${browser} --browser_version=${browser_version}
 <hr>
 
 ## Видеоотчёт теста
-![](https://github.com/VladimirSedunov/softwarecom/blob/master/design/video/test_video.gif)
+![](https://github.com/VladimirSedunov/spu_zags_rogdenie/blob/master/design/video/video.gif)
 
 <hr>
 
