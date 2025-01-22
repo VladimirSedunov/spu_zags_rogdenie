@@ -146,6 +146,11 @@ pytest ${SELECT_TESTS} --browser=${browser} --browser_version=${browser_version}
 
 <hr>
 
+## Видеоотчёт теста
+![](https://github.com/VladimirSedunov/softwarecom/blob/master/design/video/test_video.gif)
+
+<hr>
+
 ## Примечание:
 
 Проект не может быть выложен на публичный ресурс по соображениям конфиденциальности.
