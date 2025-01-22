@@ -122,13 +122,15 @@ Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Teleg
 
 Командная строка:
 
-pytest ${SELECT_TESTS} ${SUMMARY_DIFF_LOG} --bd_name=${bd_name}
+pytest ${SELECT_TESTS} --browser=${browser} --browser_version=${browser_version} --window-size=${window_size} --bd_name=${bd_name}
 
 ### Параметры сборки
 
 * SELECT_TESTS - Параметр определяет выбранную группу тестов.
+* browser (default: chrome). Браузер chrome или firefox.
+* browser_version (default: 96.0). Версия браузера на Selenoid.
+* window_size (default: 1920x1080). Размер окна браузера.
 * bd_name - База данных (тестовый стенд)
-* SUMMARY_DIFF_LOG - Параметр задаёт необходимость прикрепления к Allure-отчёту итоговой информации о расхождениях
 
 ![](/design/images/jenkins1.png)
 
