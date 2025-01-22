@@ -134,7 +134,7 @@ pytest ${SELECT_TESTS} --browser=${browser} --browser_version=${browser_version}
 
 ![](/design/images/jenkins1.png)
 
-### 5. Результат запуска сборки можно посмотреть в отчёте Allure Report
+### Результат запуска сборки можно посмотреть в отчёте Allure Report
 
 ![](/design/images/jenkins2.png)
 
